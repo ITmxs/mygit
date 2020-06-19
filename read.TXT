@@ -4,4 +4,8 @@ Git is a version control system.
 我是MXS
 zx
 xjg
+<<<<<<< HEAD
 000
+=======
+2020年6月17日
+0000
